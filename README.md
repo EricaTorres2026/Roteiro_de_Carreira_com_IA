@@ -173,4 +173,4 @@ O processo mostrou que planejamento de carreira não precisa ser complicado — 
 
 ## 🔗 Link do Repositório
 
-*(Insira aqui o link do seu repositório quando publicar.)*
+[*(Insira aqui o link do seu repositório quando publicar.)*](https://github.com/EricaTorres2026/Roteiro_de_Carreira_com_IA/tree/main)
